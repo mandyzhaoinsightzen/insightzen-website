@@ -1,0 +1,147 @@
+/*
+ soulation begin
+*/
+.medicine h4{color: #202724;font-size: 20px;font-weight: 500;}
+.medicine p{margin-bottom: 20px;margin-top:20px}
+
+.title-line-left5{border-left: 5px solid white;padding-right:5px;padding-left:10px;}
+
+
+.insurance .title-content{  background-image: url("../images/insurance-small.jpg");  width: 100%;  height: 100%;  background-repeat: no-repeat;  margin-top: 80px;
+	padding-top: 40px;  min-height:450px;  padding-left: 8%;height: 100%; margin-bottom:60px; }
+.healthy  .title-content{background-image: url("../images/insurance-small.jpg");width: 100%;  height: 100%;  background-repeat: no-repeat;  margin-top: 80px;
+	padding-top: 40px;  min-height:450px;  padding-left: 8%;height: 100%;margin-bottom:60px;  }
+.medicine .title-content{background-image: url("../images/insurance-small.jpg");width: 100%;  height: 100%;  background-repeat: no-repeat;  margin-top: 80px;
+	padding-top: 40px;  min-height:450px;  padding-left: 8%;height: 100%; margin-bottom:60px; }
+.aboutus  .title-content{background-image: url("../images/InsightZen-about-banner-1.jpg");width: 100%;  height: 100%;  background-repeat: no-repeat;  margin-top: 80px;
+	padding-top: 40px;  min-height:450px;  padding-left: 8%;height: 100%; margin-bottom:60px; }
+
+.insurance .bg-gray1 p{letter-spacing: 3px;line-height: 30px;font-size:16px}
+.medicine,.healthy  p{letter-spacing: 3px;line-height: 30px;font-size:16px}
+.healthy section p{font-size: 16px;margin:30px 0px;letter-spacing: 3px;}
+
+.insurance ul li a{color:#5a5959 !important;}
+.medicine ul li a{color:#5a5959 !important;}
+.healthy ul li a{color:#5a5959 !important;}
+
+.healthy,.medicine ,.insurance   .col-md-4{width: 33.3333%;}
+
+.healthy,.medicine ,.insurance   .col-sm-12 {  width: 100%;  }
+.core-1,.core-2{display: inline-flex;}
+.core-1 button{
+	background: #2e75b6;
+	padding: 8px 122px;
+	border-radius: 18px;
+	color: white;
+}
+.core-1-2 button{
+	background: #2e75b6;
+	padding: 8px 223px;
+	border-radius: 18px;
+	color: white;
+}
+
+.core-2 button{
+	background: white;
+	border:1px solid #2e75b6 !important;
+	padding: 8px 135px;
+	border-radius: 18px;
+	color: #2e75b6;
+	word-break: keep-all;
+}
+
+.core-button3{
+	background: white;
+	border:1px solid #2e75b6;
+	padding: 8px 50px !important;
+	border-radius: 18px;
+	color: #2e75b6;
+}
+
+.core-4 button{
+	background: white;
+	border:1px solid #2e75b6;
+	padding: 8px 130px;
+	border-radius: 18px;
+	color: #2e75b6;
+	word-break: keep-all;
+}
+
+.service-all .service-left h3{
+	border-left: 5px solid #2e75b6;
+	padding-left: 10px;
+}
+.service-area img{    height: 270px;
+	width: 500px;}
+.service-area .font26{margin-top:-25px; }
+.healthy img{
+	height: 350px;
+	width: 700px;
+}
+.healthy-det .col-md-4 {
+	width: 31.6% !important;
+}
+.display-line{ display: inline-flex;}
+
+.margin-top30{margin-top: 30px;}
+
+.align_center{text-align:center}
+
+.margin-top50{margin-top:50px;}
+
+.margin-bottom30{margin-bottom:30px;}
+
+.margin-bottom50{margin-bottom:50px;}
+
+/*
+.col-md-6 {
+    width: 50%;
+}
+*/
+
+.row-dpy {
+	display: -webkit-box;
+	width:100%;
+}
+.col-sm-12 {
+	width: 100%;
+}
+
+.soulation p {
+	font-size: 15px;
+	margin: 30px 0px;
+	letter-spacing: 3px;
+}
+.soulation h4{ letter-spacing: 3px;line-height: 30px; text-align:left;}
+
+
+
+.core-4 button{
+	background: white;
+	border:1px solid #2e75b6 !important;
+	padding: 8px 31.5%;
+	border-radius: 18px;
+	color: #2e75b6;
+	white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+
+	.core-4 button{
+		background: white;
+		border:1px solid #2e75b6 !important;
+		padding: 8px 28%;
+		border-radius: 18px;
+		color: #2e75b6;
+		white-space: nowrap;
+	}
+
+
+	.button-padding39p{padding: 8px 39%}
+	.button-padding40p{padding: 8px 40%}
+}
+
+
+/*
+ soulation end
+*/

@@ -995,12 +995,10 @@ footer .btm-ftr .copyright p {
 	line-height: 112px;
 }
 .how-we-box h5 {
-	font-family:ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Heivetica,Tahoma,Arial,sans-serif;
-	font-size: 16px;
-	font-weight: 600;
-	line-height: 36px;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 30px;
 	letter-spacing: 0.56px;
-	margin-top: 10px;
 	margin-bottom: 3px;
 }
 .how-we-box:hover h5 {
@@ -4127,8 +4125,10 @@ a.scrollup:hover{
 	margin-top: 30px;
 }
 .welcome-content h4,p{color:#232323}
-.company-introduce a{    background: white;
-	color: #337ab7;}
+.company-introduce a{
+	/* background: white; */
+	color: #337ab7;
+}
 .company-introduce h3{line-height:40px;margin-top:0px;}
 .welcome-box p a{ background: white;
 	color: #337ab7;}
@@ -4178,7 +4178,7 @@ a.scrollup:hover{
 	border-radius: 5px;
 	padding: 5px;
 }
-#section-platform p{color:white !important;line-height: 50px;}
+#section-platform p{color:white !important;line-height: 50px;margin-top: 4%;}
 #section-platform a{color:#337ab7 !important;}
 
 .service-all{padding-top:5px;}
@@ -4289,6 +4289,9 @@ a.scrollup:hover{
 /*
  soulation end
 */
+
+
+
 .col-md-3 {
 	width: 25%;
 	padding-left: 0px;
@@ -4317,6 +4320,7 @@ a.scrollup:hover{
 		padding: 0px;
 		margin-right: 1%;
 	}
+	#section-contact .paddingleft-130{padding-left:30px !important;}
 }
 @media (min-width: 321px) and (max-width:767px) {
 	#jsCarousel .col-md-3{text-align:center}
@@ -4330,6 +4334,7 @@ a.scrollup:hover{
 		padding: 0px;
 		margin-right: 1%;
 	}
+	#section-contact .paddingleft-130{padding-left:30px !important;}
 }
 @media (max-width: 1024px) and (min-width: 768px) {
 	.jscarousal .col-md-3 {
@@ -4356,10 +4361,11 @@ a.scrollup:hover{
 	}
 }
 @media (max-width:1024px) {
-	.welcome-content .welcome-box p{
+	.welcome-content .welcome-box p {
 		letter-spacing: 2px;
 		line-height: 1.8em;
 	}
+
 }
 
 
@@ -4472,7 +4478,7 @@ a.scrollup:hover{
 .aboutus p{margin: 10px;text-align: left}
 .core-1 button{
 	background: #2e75b6;
-	padding: 5px 122px;
+	padding: 8px 122px;
 	border-radius: 18px;
 	color: white;
 }
@@ -4523,5 +4529,7 @@ a.scrollup:hover{
 .healthy-det .col-md-4 {
 	width: 31.6% !important;
 }
-#three h3{padding:30px 0px  30px 30px }
+#three h3{padding: 30px 0px  10px 30px;font-size: 16px;text-align: center;}
 .home-bg{background: #f5f5f5}
+.medicine img{    height: 300px;
+	width: 710px;}
